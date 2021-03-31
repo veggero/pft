@@ -55,7 +55,7 @@ Look, drawing a black screen is not either.
 Distrubution is not easy either. Lots of blank sheets of paper.
 Either my Patreon works, or I'll just start doing a Onlyfans.
 
-You can find it [here](patreon.com/niccolove).
+You can find it [here](https://patreon.com/niccolove).
 
 ## FAQ: Is this Fast Track like KwinFT?
 
