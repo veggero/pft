@@ -57,6 +57,14 @@ Either my Patreon works, or I'll just start doing a Onlyfans.
 
 You can find it [here](patreon.com/niccolove).
 
+## FAQ: Is this Fast Track like KwinFT?
+
+No.
+
+This is Ludicrous Speed Track.
+
+Get ready.
+
 ## Will you upstream?
 
 Dunno. For some reasons, everybody at KDE hates me now. Might upstream later. If I have time. The immediacy of later.
