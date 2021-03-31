@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to PlasmaFT
+
+The new revolutionary desktop environment where everything is transparent.
+You think this would not work? heh, let me prove you wrong. Here's a mockup for the first version of PlasmaFT:
+
+![mockup](https://i.postimg.cc/X7bhhk4J/desktop-sketch.png)
 
 You can use the [editor on GitHub](https://github.com/veggero/pft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
